@@ -9,6 +9,7 @@
   <string name="gettipsi_card_enter_dialog_positive_button">Completato</string>
   <string name="gettipsi_card_enter_dialog_negative_button">Annulla</string>
   <string name="gettipsi_card_number_label">Carta</string>
+  <string name="ExpirationDateHelp">Data di scadenza (MM/YY)</string>
 
   <string-array name="gettipsi_currency_array">
     <item>Currency (optional)</item>
