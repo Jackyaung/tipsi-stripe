@@ -9,6 +9,7 @@
   <string name="gettipsi_card_enter_dialog_positive_button">Hecho</string>
   <string name="gettipsi_card_enter_dialog_negative_button">Cancelar</string>
   <string name="gettipsi_card_number_label">Tarjeta</string>
+  <string name="ExpirationDateHelp">Fecha de caducidad (MM/YY)</string>
 
   <string-array name="gettipsi_currency_array">
     <item>Currency (optional)</item>

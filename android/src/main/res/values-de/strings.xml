@@ -9,6 +9,7 @@
   <string name="gettipsi_card_enter_dialog_positive_button">Ok</string>
   <string name="gettipsi_card_enter_dialog_negative_button">Abbrechen</string>
   <string name="gettipsi_card_number_label">Karte</string>
+  <string name="ExpirationDateHelp">Ablaufdatum (MM/YY)</string>
 
   <string-array name="gettipsi_currency_array">
     <item>Currency (optional)</item>
